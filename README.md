@@ -1,3 +1,2 @@
 # OurCade_DB
-Database Project for a Local Arcade
-DBMS Course 2017
+Database Project for a Local Arcade (2017)
